@@ -1,7 +1,7 @@
 # LLmHub.dev : Unified LLM API for Maximizing performance and Minimizing costs 
 
 ## LLmHub.dev - One Month Public Roadmap: Building Optimal Auto Routers for LLMs
-![LLmHUB Logo](assets/logo-white-bg.png)
+![LLmHub Demo](assets/llmhub.gif)
 #### **Week 1: Foundation & Strategy (Completed) **
 1. **Finalize Product Vision**
    - Define the core objective: maximizing LLM performance and minimizing costs via auto routers.
