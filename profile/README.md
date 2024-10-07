@@ -1,4 +1,4 @@
-# LLmHub.dev 🚀 : Unified LLM API for Maximizing performance and Minimizing costs 
+# LLmHub.dev 🚀 : Automatic LLm Routing for Maximizing performance and Minimizing costs 
 <p align="center"> 
    <img src="assets/llmhub.gif" alt="LLmHub Demo">
 </p>
