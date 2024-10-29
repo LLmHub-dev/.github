@@ -1,9 +1,10 @@
 # LLmHub.dev 🚀 : Automatic LLm Routing for Maximizing performance and Minimizing costs 
+
 <p align="center"> 
-   <img src="assets/llmhub.gif" alt="LLmHub Demo">
+   <img src="assets/llmhub.gif" alt="LLmHub Demo" width="100%">
 </p>
 
-## Welcome to **LLmHUB**! 
+## Welcome to **LLmHUB**
 
 We are revolutionizing the way businesses utilize large language models (LLMs) by offering the fastest automatic routers that unify LLMs while saving up to 70% on API costs. Our platform is designed to streamline workflows, reduce platform risk, and maximize performance, making it easier than ever to leverage the power of AI in your applications.
 
