@@ -1,61 +1,28 @@
-# **LLmHub**
+# LLMHUB.dev
 
-*The first fully free search platform built for **true collaboration**: every query is visible to the whole team, AI agents co-search alongside you, and results are summarised in real time—so decisions happen faster and duplicate work disappears.*
+![Landing Page](assets/pic4.png)
 
----
+**Autonomous computer agents at scale**
 
-## ✨ Key Features
-
-### Collaborative Threads  
-See teammates’ live cursors, queries, and annotations—like Google Docs but for search.
-
-### AI Co-Pilots  
-LLM agents refine keywords, dedupe results, and draft summaries or next steps on demand.
-
-### Shared Knowledge Graph  
-Persist every click & note; surface **who already knows** when you revisit a topic.
-
-### Web Bots  
-Fire off searches from any page in your browser and capture results without breaking flow.
+LLMHUB.dev builds autonomous computer control agents designed for performance, efficiency, and scalability.  
+Our platform enables seamless integration of intelligent agents that execute complex workflows reliably.
 
 ---
 
-## 📚 Use-Case Recipes
-
-### Travel Planning  
-Add the **Itinerary** plugin and drop flight alerts directly into your shared board.
-
-### Grant & Patent Landscaping  
-Activate **Citation Notebook** to export IEEE/APA references with one click.
-
-### Incident Response  
-Turn on **Map & Verify** view to geotag reports and triage information for disaster teams.
+## What We Do
+- Build autonomous agents that can control and manage computer systems  
+- Scale efficiently to handle enterprise-level tasks  
+- Provide a simple and unified interface for developers  
 
 ---
 
-## 📊 Dashboard Highlights
+## Preview
 
-- Real-time graphs for query volume, P95 latency, and cache-hit ratio  
-- Per-workspace spending caps & budgets  
-- Heat-map of collaboration depth (queries per user)
-
----
-
-## 🛣️ Roadmap
-
-- **Workspace Apps** for Notion & Confluence  
-- **Semantic Alerts** (daily diff on topics you follow)  
-- **Edge Regions** for sub-50 ms global latency
+<p align="center">
+  <img src="assets/Pi7_Gif.gif" alt="Main Agent Animation" width="800"/>
+</p>
 
 ---
 
-## 📞 Contact
-
-| Channel      | Link                              |
-|--------------|-----------------------------------|
-| 🌐 Website   | <https://llmhub.dev>              |
-| 🐦 Twitter/X | [@prateekjannu](https://x.com/prateekjannu) |
-
----
-
-*Built with ❤️ by the LLmHub team — MIT Licensed*
+## Learn More
+Visit us at [LLMHUB.dev](https://llmhub.dev)
